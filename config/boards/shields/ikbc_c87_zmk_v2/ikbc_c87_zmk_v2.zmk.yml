@@ -3,7 +3,8 @@ id: ikbc_c87_zmk_v2
 name: ikbc_c87_zmk_v2
 type: shield
 url: https://github.com/dongocduy/ikbc_c87_zmk_v2.git
+requires:
+  - pro_micro
 features:
   - keys
-siblings:
-  - ikbc_c87_zmk_v2
+  - alpha28

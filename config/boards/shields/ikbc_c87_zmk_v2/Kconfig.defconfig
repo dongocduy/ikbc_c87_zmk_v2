@@ -1,2 +1,4 @@
-config ZMK_KEYBOARD_NAME
-    default "C87 Ble"
+if SHIELD_IKBC_C87_ZMK_v2
+    config ZMK_KEYBOARD_NAME
+        default "C87 Ble"
+endif
