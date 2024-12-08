@@ -1,0 +1,9 @@
+file_format: "1"
+id: ikbc_c87_zmk_v2
+name: ikbc_c87_zmk_v2
+type: shield
+url: https://github.com/dongocduy/ikbc_c87_zmk_v2.git
+features:
+  - keys
+siblings:
+  - ikbc_c87_zmk_v2

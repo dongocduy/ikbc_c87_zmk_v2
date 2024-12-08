@@ -1,0 +1,1 @@
+def_bool $(shields_list_contains,ikbc_c87_zmk_v2)
