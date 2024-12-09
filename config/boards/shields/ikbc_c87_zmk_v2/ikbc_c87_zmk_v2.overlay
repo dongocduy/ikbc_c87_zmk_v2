@@ -1,5 +1,5 @@
 #include <dt-bindings/zmk/matrix_transform.h>
-#include "ergo_wireless.dtsi"
+#include "ikbc_c87_zmk_v2.dtsi"
 / {
     chosen {
         zmk,kscan = &kscan0;
